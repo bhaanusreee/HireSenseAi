@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# Local / IDE
+.idea/
+.vscode/
+*.log
+
+# Optional: keep candidate log local (remove this line if you want it in the repo)
+# candidates_log.csv

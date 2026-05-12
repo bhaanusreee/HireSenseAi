@@ -1,0 +1,2 @@
+id,timestamp,candidate_name,candidate_email,resume_filename,predicted_role,ats_score,extracted_skills,top_probability
+1ac4e546-712d-4087-a0bd-dbe583e99d48,2026-05-12 05:50:56 UTC,pragna,pragna@gmail.com,pragna (1).pdf,Software Engineer,98,Python|Java|SQL|Machine Learning|TensorFlow|Git|API,0.2355
