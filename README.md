@@ -104,6 +104,16 @@ hireai/
 5. **Admin** — **Admin login** → dashboard. **Change default credentials** in `app.py` (`ADMIN_USERNAME` / `ADMIN_PASSWORD`) before any real deployment.
 
 ---
+## UI Screenshots
+
+<img width="1915" height="911" alt="image" src="https://github.com/user-attachments/assets/c784f5c9-3f30-4883-85de-eafb1700079f" />
+
+<img width="1873" height="889" alt="image" src="https://github.com/user-attachments/assets/5e2a4d80-678b-40ce-bec0-bb1eaf4ab8ae" />
+
+<img width="1901" height="907" alt="image" src="https://github.com/user-attachments/assets/c3b6239b-21c9-4bde-8d36-6e6f2ef05b78" />
+
+
+
 
 ## How the “AI” part works (short)
 
@@ -142,3 +152,6 @@ Use and modify freely for **education and demos**. If you ship a product, replac
 ## Acknowledgements
 
 Built as a **minimal, readable** example of wiring **Streamlit + classical ML + CSV storage** for resume screening UX experiments.
+
+# Author
+Thota Bhanu Sri
